@@ -4,7 +4,7 @@ procdump.exe -ma -accepteula -c 80 -n 3 -s 30
 
 **Here's the explanation of each option:**
 
-   ** procdump.exe**: This is the command-line executable for Procdump.
+    procdump.exe: This is the command-line executable for Procdump.
 
     -ma: Specifies that Procdump should create a full memory dump. The -ma option stands for "Mini Plus Full Memory Dump."
 
